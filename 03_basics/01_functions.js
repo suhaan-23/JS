@@ -65,3 +65,4 @@ function returnSecondValue(getArray){
 // console.log(returnSecondValue(myArray));
 console.log(returnSecondValue([200, 400,100,500]));
 
+
